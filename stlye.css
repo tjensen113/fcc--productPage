@@ -1,0 +1,10 @@
+#header{
+    position:fixed;
+    display:flex;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    header {
+      background-color: lightblue;
+    }
+  }
