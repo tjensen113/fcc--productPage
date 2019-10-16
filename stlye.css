@@ -1,8 +1,8 @@
 
 html,
 body{
-    background-color: rgb(240, 215, 236);
-    
+    /* background-color: rgb(240, 215, 236); */
+    background-image: url(./images/background-pink.jpg);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 }
@@ -14,9 +14,9 @@ body{
   border-radius: 25px;
   max-width: 90%;
   display: block;
-    margin:40px;
-    margin-left: auto;
-    margin-right: auto;
+  margin:40px;
+  margin-left: auto;
+  margin-right: auto;
 
 }
 
